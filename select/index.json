@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Millennium",
+  "base_artist": "Robbie Williams",
+  "createdAt": "2026-02-27T08:37:52.413508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Millennium (feat. The Mattson 2)",
+      "artist": "Toro y Moi",
+      "has_synced": true,
+      "path": "select/01_Millennium_(feat._The_Mattson_2)_Toro_y_Moi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Y.M.C.A. (Millennium mix edit)",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/02_Y.M.C.A._(Millennium_mix_edit)_Village_People.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Y.M.C.A. (Millennium mix)",
+      "artist": "Village People",
+      "has_synced": false,
+      "path": "select/03_Y.M.C.A._(Millennium_mix)_Village_People.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "***k the Millennium (censored radio edit)",
+      "artist": "2K",
+      "has_synced": false,
+      "path": "select/04_k_the_Millennium_(censored_radio_edit)_2K.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "***k the Millennium",
+      "artist": "2K",
+      "has_synced": false,
+      "path": "select/05_k_the_Millennium_2K.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "***k The Millennium (Original Version)",
+      "artist": "2K",
+      "has_synced": false,
+      "path": "select/06_k_The_Millennium_(Original_Version)_2K.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "***k the Millennium (radio edit)",
+      "artist": "2K",
+      "has_synced": false,
+      "path": "select/07_k_the_Millennium_(radio_edit)_2K.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fuck the Millennium",
+      "artist": "Scooter",
+      "has_synced": false,
+      "path": "select/08_Fuck_the_Millennium_Scooter.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Millennium",
+      "artist": "Earthsuit",
+      "has_synced": false,
+      "path": "select/09_Millennium_Earthsuit.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dark Millennium",
+      "artist": "Bolt Thrower",
+      "has_synced": true,
+      "path": "select/10_Dark_Millennium_Bolt_Thrower.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fractured Millennium",
+      "artist": "Hypocrisy",
+      "has_synced": true,
+      "path": "select/11_Fractured_Millennium_Hypocrisy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Millennium (Live)",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/12_Millennium_(Live)_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Millennium",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/13_Millennium_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Millennium",
+      "artist": "Stratovarius",
+      "has_synced": true,
+      "path": "select/14_Millennium_Stratovarius.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Millennium - Demo Version",
+      "artist": "Stratovarius",
+      "has_synced": false,
+      "path": "select/15_Millennium_-_Demo_Version_Stratovarius.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Millennium (demo version)",
+      "artist": "Stratovarius",
+      "has_synced": false,
+      "path": "select/16_Millennium_(demo_version)_Stratovarius.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Millennium Sun",
+      "artist": "Angra",
+      "has_synced": false,
+      "path": "select/17_Millennium_Sun_Angra.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Millennium Sun",
+      "artist": "Angra",
+      "has_synced": true,
+      "path": "select/18_Millennium_Sun_Angra.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Millennium",
+      "artist": "Robbie Williams",
+      "has_synced": false,
+      "path": "select/pl_01_Millennium_Robbie_Williams.txt"
+    }
+  ]
+}
